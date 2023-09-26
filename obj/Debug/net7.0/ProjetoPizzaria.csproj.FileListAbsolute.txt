@@ -1,0 +1,14 @@
+C:\Users\kauan\ProjetoPizzaria\bin\Debug\net7.0\ProjetoPizzaria.exe
+C:\Users\kauan\ProjetoPizzaria\bin\Debug\net7.0\ProjetoPizzaria.deps.json
+C:\Users\kauan\ProjetoPizzaria\bin\Debug\net7.0\ProjetoPizzaria.runtimeconfig.json
+C:\Users\kauan\ProjetoPizzaria\bin\Debug\net7.0\ProjetoPizzaria.dll
+C:\Users\kauan\ProjetoPizzaria\bin\Debug\net7.0\ProjetoPizzaria.pdb
+C:\Users\kauan\ProjetoPizzaria\obj\Debug\net7.0\ProjetoPizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\ProjetoPizzaria\obj\Debug\net7.0\ProjetoPizzaria.AssemblyInfoInputs.cache
+C:\Users\kauan\ProjetoPizzaria\obj\Debug\net7.0\ProjetoPizzaria.AssemblyInfo.cs
+C:\Users\kauan\ProjetoPizzaria\obj\Debug\net7.0\ProjetoPizzaria.csproj.CoreCompileInputs.cache
+C:\Users\kauan\ProjetoPizzaria\obj\Debug\net7.0\ProjetoPizzaria.dll
+C:\Users\kauan\ProjetoPizzaria\obj\Debug\net7.0\refint\ProjetoPizzaria.dll
+C:\Users\kauan\ProjetoPizzaria\obj\Debug\net7.0\ProjetoPizzaria.pdb
+C:\Users\kauan\ProjetoPizzaria\obj\Debug\net7.0\ProjetoPizzaria.genruntimeconfig.cache
+C:\Users\kauan\ProjetoPizzaria\obj\Debug\net7.0\ref\ProjetoPizzaria.dll
